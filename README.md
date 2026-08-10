@@ -12,7 +12,7 @@
   <a href="mailto:yangling0818@163.com">Contact</a>
 </p>
 
-**Ling Yang (杨灵)** is an **Assistant Professor (PI)** at the **International Center for Machine Learning, Peking University**, and the **Founder of DIG**.
+**Ling Yang (杨灵)** is an **Assistant Professor (PI) at Peking University** and the **Founder of DIG**.
 
 DIG focuses on four research directions:
 
@@ -35,7 +35,7 @@ We welcome **Master's students, PhD students, postdocs, and research interns**, 
 
 ### 中文
 
-**杨灵，北京大学国际机器学习中心助理教授（PI），Discovery Intelligence Group（DIG，发现智能课题组）创始人。**
+**杨灵，北京大学助理教授（PI），Discovery Intelligence Group（DIG，发现智能课题组）创始人。**
 
 DIG 主要研究方向包括 **LLM / Agent Post-Training、强化学习系统与基础设施、Recursive Self-Improvement (RSI)、AI for Discovery**。
 
