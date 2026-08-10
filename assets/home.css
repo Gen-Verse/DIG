@@ -1,9 +1,40 @@
 /* Home-page-specific layout overrides */
+
+/* Desktop: compact, PI-first hero with single-line group name */
 @media (min-width:981px){
   .hero-grid{grid-template-columns:minmax(0,1.6fr) minmax(250px,.4fr);gap:30px}
   .hero h1{white-space:nowrap;max-width:none;font-size:clamp(42px,4.3vw,56px);letter-spacing:-.045em}
   .hero-mark img{width:min(285px,100%);max-height:210px}
 }
+
+/* Tablet and mobile: remove duplicate hero logo and keep the first screen focused on PI + research identity */
 @media (max-width:980px){
-  .hero h1{white-space:normal}
+  .hero{padding:34px 0 38px}
+  .hero-grid{display:block}
+  .hero-mark{display:none}
+  .hero h1{white-space:normal;margin-bottom:14px}
+  .hero-copy{max-width:720px}
+}
+
+@media (max-width:720px){
+  .nav-in{padding-top:7px;padding-bottom:7px}
+  .brand img{width:112px;height:34px}
+
+  .hero{padding:28px 0 34px}
+  .hero .kicker{font-size:10px;letter-spacing:.14em;margin-bottom:10px}
+  .hero h1{font-size:43px;line-height:.98;letter-spacing:-.042em;margin-bottom:16px}
+
+  .pi-intro{font-size:13px;line-height:1.48;margin-bottom:12px}
+  .hero .lede{font-size:16px;line-height:1.48;margin-bottom:18px}
+
+  /* Research directions are introduced immediately below in the Research section; avoid duplicating them in pills here. */
+  .hero-tags{display:none}
+
+  .hero-actions{gap:9px}
+  .hero-actions .btn{padding:9px 15px;font-size:13px}
+  .hero-actions .btn:nth-child(2){display:none}
+
+  .section{padding:46px 0}
+  .section-head{margin-bottom:20px}
+  .section-title{font-size:34px}
 }
