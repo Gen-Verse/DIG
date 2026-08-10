@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gen-verse.github.io/DIG/sitemap.xml
