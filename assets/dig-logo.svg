@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">DIG — Discovery Intelligence Group</title>
+  <desc id="desc">A minimal academic-tech monogram for the Discovery Intelligence Group.</desc>
+  <defs>
+    <style>
+      .ink{fill:#12233f}.gold{fill:#b58a37}.line{fill:none;stroke:#b58a37;stroke-width:8;stroke-linecap:round}
+    </style>
+  </defs>
+  <g transform="translate(20 18)">
+    <!-- D -->
+    <path class="ink" d="M40 54h70c61 0 100 39 100 92s-39 92-100 92H40v-34h30V88H40V54zm68 34H104v116h4c40 0 64-22 64-58s-24-58-64-58z"/>
+    <!-- G -->
+    <path class="ink" d="M216 92c-15-10-32-15-50-15-39 0-67 27-67 69 0 43 29 71 70 71 16 0 30-4 42-11v-38h-47v-31h82v89c-22 17-49 26-79 26-64 0-108-43-108-106 0-61 44-104 107-104 27 0 51 7 71 21l-21 29z" opacity=".98"/>
+    <!-- I / discovery axis -->
+    <rect class="gold" x="137" y="46" width="10" height="174" rx="5"/>
+    <circle class="gold" cx="142" cy="28" r="10"/>
+    <!-- orbit -->
+    <ellipse class="line" cx="142" cy="146" rx="126" ry="58" transform="rotate(-18 142 146)"/>
+    <circle class="gold" cx="255" cy="96" r="9"/>
+    <circle class="gold" cx="31" cy="193" r="6"/>
+    <!-- core network -->
+    <g stroke="#b58a37" stroke-width="4" stroke-linecap="round">
+      <path d="M142 126l-25 22m25-22 27 21m-27-21 0 39m0 0-22 19m22-19 24 17"/>
+    </g>
+    <g class="gold">
+      <circle cx="142" cy="126" r="7"/><circle cx="117" cy="148" r="6"/><circle cx="169" cy="147" r="6"/>
+      <circle cx="142" cy="165" r="6"/><circle cx="120" cy="184" r="5"/><circle cx="166" cy="182" r="5"/>
+    </g>
+  </g>
+</svg>
