@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dig-logo.svg" width="560" alt="DIG — Discovery Intelligence Group">
+  <img src="./assets/dig-logo.png" width="560" alt="DIG — Discovery Intelligence Group">
 </p>
 
 <h1 align="center">DIG — Discovery Intelligence Group</h1>
