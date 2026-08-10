@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">DIG — Discovery Intelligence Group</h1>
-<p align="center"><strong>Ling Yang's research group at Peking University</strong></p>
+<p align="center"><strong>Founded by Ling Yang · Peking University</strong></p>
 
 <p align="center">
   <a href="https://gen-verse.github.io/DIG/">Website</a> ·
@@ -11,6 +11,8 @@
   <a href="https://huggingface.co/Gen-Verse">Hugging Face</a> ·
   <a href="mailto:yangling0818@163.com">Contact</a>
 </p>
+
+**Ling Yang (杨灵)** is a Principal Investigator at the **International Center for Machine Learning, Peking University**, and the **Founder of DIG**.
 
 DIG focuses on four research directions:
 
@@ -33,8 +35,8 @@ We welcome **Master's students, PhD students, postdocs, and research interns**, 
 
 ### 中文
 
-**Discovery Intelligence Group（DIG，发现智能课题组）是杨灵在北京大学的课题组。**
+**杨灵，北京大学国际机器学习中心 PI，Discovery Intelligence Group（DIG，发现智能课题组）创始人。**
 
-主要研究方向包括 **LLM / Agent Post-Training、强化学习系统与基础设施、Recursive Self-Improvement (RSI)、AI for Discovery**。
+DIG 主要研究方向包括 **LLM / Agent Post-Training、强化学习系统与基础设施、Recursive Self-Improvement (RSI)、AI for Discovery**。
 
 长期招收硕士生、博士生、博士后和研究实习生，并欢迎学术界与产业界开展科研合作。
