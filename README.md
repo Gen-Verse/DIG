@@ -19,11 +19,11 @@ DIG focuses on four research directions:
 - **LLM / Agent Post-Training**
 - **RL Systems / Infrastructure**
 - **Recursive Self-Improvement (RSI)**
-- **AI for Discovery**
+- **Discovery Intelligence**
 
 ## Open Research
 
-DIG develops open research systems with **[Gen-Verse](https://github.com/Gen-Verse)**, including ReasonFlux, RLAnything, OpenClaw-RL, GenEnv, MMaDA, dLLM-RL, LatentMAS, and more.
+DIG develops open research systems with **[Gen-Verse](https://github.com/Gen-Verse)**, including [Recuris](https://github.com/Gen-Verse/Recuris), ReasonFlux, RLAnything, OpenClaw-RL, GenEnv, MMaDA, dLLM-RL, LatentMAS, and more.
 
 ## Join Us
 
@@ -37,6 +37,6 @@ We welcome **Master's students, PhD students, postdocs, and research interns**, 
 
 **杨灵，北京大学助理教授（PI），Discovery Intelligence Group（DIG，发现智能课题组）创始人。**
 
-DIG 主要研究方向包括 **LLM / Agent Post-Training、强化学习系统与基础设施、Recursive Self-Improvement (RSI)、AI for Discovery**。
+DIG 主要研究方向包括 **LLM / Agent Post-Training、强化学习系统与基础设施、Recursive Self-Improvement (RSI)、Discovery Intelligence**。
 
 长期招收硕士生、博士生、博士后和研究实习生，并欢迎学术界与产业界开展科研合作。
