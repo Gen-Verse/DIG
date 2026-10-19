@@ -23,7 +23,7 @@ DIG focuses on four research directions:
 
 ## Open Research
 
-DIG develops open research systems with **[Gen-Verse](https://github.com/Gen-Verse)**, including [Recuris](https://github.com/Gen-Verse/Recuris), ReasonFlux, RLAnything, OpenClaw-RL, GenEnv, MMaDA, dLLM-RL, LatentMAS, and more.
+DIG develops open research systems with **[Gen-Verse](https://github.com/Gen-Verse)**, including [DiscoveryRSI](https://github.com/Gen-Verse/DiscoveryRSI), [Recuris](https://github.com/Gen-Verse/Recuris), ReasonFlux, RLAnything, OpenClaw-RL, GenEnv, MMaDA, dLLM-RL, LatentMAS, and more.
 
 ## Join Us
 
